@@ -16,8 +16,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 ```
-Developed by:\Iyalarasu C
-RegisterNumber:  212223040069
+Developed by:\Subash M
+RegisterNumber:  212223040210
 ```
 ~~~
 import pandas as pd
